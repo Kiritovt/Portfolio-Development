@@ -45,7 +45,7 @@ This repo serves as a **central hub** for:
 If you want to connect, discuss tech, or collaborate:
 
 **GitHub:**  
-**LinkedIn:** Domenico Junior Celiento (https://www.linkedin.com/in/domenico-junior-celiento-083227332/) 
+**LinkedIn:** https://www.linkedin.com/in/domenico-junior-celiento-083227332/ 
 **Email:** celientodomenico53@gmail.com
 
 
