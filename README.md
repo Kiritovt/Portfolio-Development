@@ -12,7 +12,9 @@ This repo serves as a **central hub** for:
 - Showcasing my evolution as a developer to future employers or collaborators  
 
 
-##💡 *Each folder corresponds to a language or technology stack. Inside each section you’ll find exercises, notes, and small or medium-sized projects.*
+
+
+💡 *Each folder corresponds to a language or technology stack. Inside each section you’ll find exercises, notes, and small or medium-sized projects.*
 
 
 ## 🧰 Technologies & Tools
@@ -44,7 +46,7 @@ This repo serves as a **central hub** for:
 
 If you want to connect, discuss tech, or collaborate:
 
-**GitHub:**  
+**GitHub:**  https://github.com/Kiritovt
 **LinkedIn:** https://www.linkedin.com/in/domenico-junior-celiento-083227332/ 
 **Email:** celientodomenico53@gmail.com
 
