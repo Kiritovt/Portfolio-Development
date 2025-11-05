@@ -46,8 +46,10 @@ This repo serves as a **central hub** for:
 
 If you want to connect, discuss tech, or collaborate:
 
-**GitHub:**  https://github.com/Kiritovt
+**GitHub:**  https://github.com/Kiritovt 
+
 **LinkedIn:** https://www.linkedin.com/in/domenico-junior-celiento-083227332/ 
+
 **Email:** celientodomenico53@gmail.com
 
 
