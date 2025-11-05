@@ -22,7 +22,7 @@ This repo serves as a **central hub** for:
 - **Languages:** Python, JavaScript, Java, C, C++ (coming soon)
 - **Frameworks:** Flask, React, Spring Boot
 - **Databases:** MySQL, SQLite, MongoDB
-- **Tools:** Git, Visual Studio Code, Docker (basic), Linux CLI
+- **Tools:** Git, Visual Studio Code
 - **Version Control:** Git & GitHub for collaboration and tracking changes
 
 
